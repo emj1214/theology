@@ -58,17 +58,6 @@ h1 {
     margin-bottom: 50%;
 }
 
-/*.color {
-    z-index: 1;
-    height: 100%;
-    width: 100%;
-    position: fixed;
-    overflow: auto;
-    top: 0px;
-    left: 0px;
-    background: rgba(0, 0, 0, 0.7);
-};*/
-
 h2 {
     font-size: 64px;
     color: white;
@@ -89,4 +78,16 @@ h2 {
     display: block;
     border: none;
     min-width: 50%;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+    text-align: left;
+    padding: 12px;
+}
+
+a {
+    text-decoration: underline;
+    color: white;
 }
